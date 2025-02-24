@@ -1,14 +1,14 @@
 # CS499 Project
 
-Welcome to my CS499 project repository! This repository contains the code and documentation for my final project in SNHU's CS499 Capstone course.
+Welcome to my CS499 Project repository! This repository contains all the code, resources, and documentation related to my final project in the **CS499** Capstone course at Southern New Hampshire University (SNHU).
 
 ## Project Overview
 
-This project showcases the skills and knowledge acquired during the CS499 course. It includes a variety of Java applications, a comprehensive capstone experience, and documentation of the project's development process.
+This project is the culmination of my learning journey in CS499, where I demonstrate my ability to integrate various technologies and apply knowledge gained throughout the course. The project incorporates real-world problem solving, software development, and a comprehensive showcase of my skills in computer science.
 
-## Files
+### Key Features
+- **Comprehensive Java-based Applications**: Implementing algorithms and functionalities based on course requirements.
+- **Documentation**: Includes the project’s scope, goals, and objectives, as well as a self-assessment reflecting my experience.
+- **GitHub Pages**: A simple, responsive landing page to demonstrate the final product, providing access to resources and project details.
 
-- **index.html**: The main page for the GitHub Pages site.
-- **Self-Assessment_CS499_Capstone_Experience.docx**: A self-assessment reflecting on the project's learning outcomes.
-- **Java Files**: A collection of Java files implementing various components of the project.
 
